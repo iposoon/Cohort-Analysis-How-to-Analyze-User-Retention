@@ -13,10 +13,11 @@
 - Customers will be divided into acquisition cohorts depending on the month of their first purchase. 
 - The cohort index would then be assigned to each of the customer’s purchases, which will represent the number of months since the first transaction.
 ### 2. Business Questions
-
-
+- Using Python to analyze transaction data from KPMG and creating a cohort that allows stakeholders to assess user engagement starting from their first transaction.
 ## II. Data Visualization with Python
+- MoM Retention Rate for Customer Transaction Data
 
+![image](https://user-images.githubusercontent.com/101726623/235667786-ca76e568-bb3e-4a8b-877a-ca051be85f0c.png)
 ## III. Insights
 - Customers who register and place their first order in July 2017 have a high retention rate (up to 48.1%) after 5 months of operation.
 - Customers who register and place their first order in April 2017 have a stable and relatively high retention rate: 45.1% (4th month), 42.1% (5th month) ), and 42.7% (7th month).
