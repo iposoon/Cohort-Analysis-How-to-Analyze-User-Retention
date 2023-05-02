@@ -15,7 +15,7 @@
 ### 2. Business Questions
 - Using Python to analyze transaction data from KPMG and creating a cohort that allows stakeholders to assess user engagement starting from their first transaction.
 ## II. Data Visualization with Python
-- MoM Retention Rate for Customer Transaction Data
+- **MoM Retention Rate for Customer Transaction Data**
 
 ![image](https://user-images.githubusercontent.com/101726623/235667786-ca76e568-bb3e-4a8b-877a-ca051be85f0c.png)
 ## III. Insights
